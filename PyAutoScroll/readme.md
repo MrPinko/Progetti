@@ -1,4 +1,4 @@
-automatic scroll focussed windows with python
+automatic scroll focussed window with python
 
 # controls
 + \+ and - to adjust velocity 
