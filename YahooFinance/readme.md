@@ -1,1 +1,0 @@
-GME spreadsheet by python
